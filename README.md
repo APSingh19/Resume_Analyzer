@@ -203,42 +203,5 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 * [x] Fetch more details from users resume.
 * [ ] View individual user details.
 
-## Contributing 🤘
-Pull requests are welcome. 
-
-For major changes, please open an issue first to discuss what you would like to change.
-
-
-
-
-**Overall Rating Analysis and Comment History**
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
-
-### Admin
-
-**Login**
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
-
-**User Count and it's data**
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/2-user-data.png?raw=true)
-
-**Exported csv file**
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/3-user-datacsv.png?raw=true)
-
-**Feedback Data**
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
-
-**Pie Chart Analytical Representation of clusters**
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true)
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
 ### Built with 🤍 AI RESUME ANALYZER by <a href="#">Agampreet Singh</a>
