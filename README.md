@@ -21,7 +21,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Agampreet Singh</a> through 
+      <a href="#">Agampreet Singh</a> through 
      </small>
   </p>
 </div><br/><br/>
@@ -138,7 +138,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+https://github.com/APSingh19/Resume_Analyzer.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
@@ -241,4 +241,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+### Built with 🤍 AI RESUME ANALYZER by <a href="#">Agampreet Singh</a>
